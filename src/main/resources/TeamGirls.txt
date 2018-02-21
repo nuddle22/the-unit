@@ -1,0 +1,344 @@
+My Turn,1
+Red,F
+Eunji
+Euijin
+Yebin
+Somyi
+Lee Borim
+Han Seoin
+Yeoeun
+Chahee
+Yoomin
+;
+My Turn,1
+Black,F
+Yang Jiwon
+Serri
+Woohee
+Kim Yujeong
+ZN
+Dan-A
+Haena
+Nari
+Park Jiwon
+;
+My Turn,1
+Orange,F
+Areum
+Hyosun
+Hyunjoo
+Mint
+Seol Hayoon
+Kim
+Dabin
+Bomi
+Joohyun
+;
+My Turn,1
+Green,F
+Hyeyeon
+Semmi
+Saebyul
+Genie
+Yoonjo
+I
+NC.A
+Viva
+Chaewon
+;
+My Turn,1
+Yellow,F
+Minhee
+Yena
+Eunbyeol
+Hanbi
+Tae-E
+Eun-E
+Lee Yujeong
+Heejin
+Lee Sebin
+;
+My Turn,1
+White,F
+Haein
+Anne
+Gaeul
+Suji
+Euna
+Chaesol
+Janey
+Nam Yujeong
+Kim Jiwon
+;
+My Turn,1
+Blue,F
+Joo
+Sandy
+Yuji
+Yeseul
+Soya
+Lena
+Haseo
+Lucky
+Shin Jihoon
+;
+Rough,2
+Black,F
+Chahee
+NC.A
+Gaeul
+Shin Jihoon
+Joohyun
+Hyunjoo
+Eunji
+Han Seoin
+Genie
+;
+Crazy,2
+Blue,F
+Serri
+Hyosun
+Euna
+Nari
+Dabin
+Mint
+Euijin
+Viva
+Saebyeol
+;
+Heart Attack,2
+Yellow,F
+Yoonjo
+Yoomin
+Somyi
+Lena
+Park Jiwon
+Yena
+Tae-E
+Lee Yujeong
+Eunbyeol
+;
+Red Flavor,2
+Orange,F
+Yuji
+Kim Jiwon
+I
+Yebin
+Suji
+Nam Yujeong
+Sebin
+Dan-A
+Lucky
+;
+You're The Best,2
+Green,F
+Yang Jiwon
+Eun-E
+Heejin
+Minhee
+Haena
+Joo
+Hyeyeon
+Areum
+Yeseul
+;
+Give It To Me,2
+White,F
+Semmi
+Yeoeun
+Seol Hayoon
+Chaewon
+Haseo
+Haein
+Janey
+Kim
+Bomi
+;
+Gee,2
+Red,F
+Woohee
+ZN
+Kim Yujeong
+Soya
+Chaesol
+Anne
+Lee Borim
+Hanbi
+Sandy
+;
+Jackpot,3
+Yellow,F
+Heejin
+Yeoeun
+Woohee
+Hyeyeon
+Shin Jihoon
+Chaewon
+Genie
+Han Seoin
+Soya
+;
+Last Dance,3
+Green,F
+Haena
+NC.A
+Yebin
+Kim Yujeong
+Lucky
+Minhee
+Seol Hayoon
+Eun-E
+Gaeul
+;
+Problem,3
+Black,F
+Serri
+Euijin
+ZN
+Hyunjoo
+Lee Borim
+Haein
+Dan-A
+Park Jiwon
+Yena
+Lee Yujeong
+Tae-E
+Eunbyeol
+Lena
+;
+Partition,3
+Red,F
+Hyosun
+Nari
+Suji
+Anne
+Viva
+Mint
+Joohyun
+Hanbi
+Dabin
+Yuji
+Bomi
+Lee Sebin
+Saebyul
+Eunji
+;
+Who's Your Mama?,3
+Orange,F
+Euna
+Semmi
+Somyi
+Kim Jiwon
+Yang Jiwon
+Kim
+Yoonjo
+Yoomin
+Yeseul
+;
+Blood Sweat & Tears,3
+Blue,F
+Areum
+Chahee
+Haseo
+Janey
+Joo
+Yujeong
+Sandy
+Chaesol
+;
+Cherry On Top,4
+Yellow,F
+Euijin
+Semmi
+Lee Borim
+Haein
+Yoomin
+Yena
+Park Jiwon
+Yeseul
+Janey
+;
+Poco a Poco,4
+Orange,F
+Chahee
+Yang Jiwon
+Somyi
+Yoonjo
+Lucky
+Hyeyeon
+Nam Yujeong
+Seol Hayoon
+Joo
+;
+Cosmos,4
+Red,F
+Heejin
+Yebin
+Dan-A
+Yeoeun
+Hyosun
+Kim
+Viva
+Eun-E
+Areum
+;
+Sweet,4
+Green,F
+Euna
+ZN
+Anne
+Woohee
+Suji
+Nari
+Haena
+Mint
+Haseo
+;
+Always,4
+White,F
+NC.A
+Shin Jihoon
+Kim Jiwon
+Kim Yujeong
+Hyunjoo
+Joohyun
+Serri
+Gaeul
+Minhee
+;
+Ting,5
+White,F
+Semmi
+Suji
+Kim Jiwon
+Euna
+Yang Jiwon
+Hyunjoo
+ZN
+Dan-A
+Somyi
+;
+You & I,5
+Red,F
+Euijin
+Yebin
+NC.A
+Yeoeun
+Chahee
+Yoonjo
+Lee Borim
+Woohee
+Shin Jihoon
+;
+Final,6
+Rainbow,F
+Euijin
+Yebin
+NC.A
+Yoonjo
+Hyunjoo
+Yang Jiwon
+Woohee
+ZN
+Suji
+;

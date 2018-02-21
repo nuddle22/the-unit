@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<unit>
+    <contestant id="1" name="Euijin" gender="70" leaderCount="3" teammatesCount="34" maxTeammates="51"/>
+    <contestant id="2" name="Yebin" gender="70" leaderCount="0" teammatesCount="33" maxTeammates="47"/>
+    <contestant id="3" name="NC.A" gender="70" leaderCount="1" teammatesCount="31" maxTeammates="48"/>
+    <contestant id="4" name="Yoonjo" gender="70" leaderCount="1" teammatesCount="35" maxTeammates="48"/>
+    <contestant id="5" name="Hyunjoo" gender="70" leaderCount="0" teammatesCount="38" maxTeammates="52"/>
+    <contestant id="6" name="Yang Jiwon" gender="70" leaderCount="2" teammatesCount="31" maxTeammates="48"/>
+    <contestant id="7" name="Woohee" gender="70" leaderCount="1" teammatesCount="31" maxTeammates="48"/>
+    <contestant id="8" name="ZN" gender="70" leaderCount="0" teammatesCount="32" maxTeammates="52"/>
+    <contestant id="9" name="Suji" gender="70" leaderCount="0" teammatesCount="35" maxTeammates="52"/>
+    <contestant id="10" name="Semmi" gender="70" leaderCount="2" teammatesCount="29" maxTeammates="40"/>
+    <contestant id="11" name="Kim Jiwon" gender="70" leaderCount="0" teammatesCount="28" maxTeammates="39"/>
+    <contestant id="12" name="Euna" gender="70" leaderCount="2" teammatesCount="28" maxTeammates="39"/>
+    <contestant id="13" name="Dan-A" gender="70" leaderCount="0" teammatesCount="34" maxTeammates="43"/>
+    <contestant id="14" name="Somyi" gender="70" leaderCount="0" teammatesCount="30" maxTeammates="40"/>
+    <contestant id="15" name="Yeoeun" gender="70" leaderCount="0" teammatesCount="29" maxTeammates="40"/>
+    <contestant id="16" name="Shin Jihoon" gender="70" leaderCount="0" teammatesCount="29" maxTeammates="40"/>
+    <contestant id="17" name="Chahee" gender="70" leaderCount="2" teammatesCount="27" maxTeammates="38"/>
+    <contestant id="18" name="Lee Borim" gender="70" leaderCount="0" teammatesCount="32" maxTeammates="44"/>
+    <contestant id="19" name="Hyosun" gender="70" leaderCount="1" teammatesCount="25" maxTeammates="36"/>
+    <contestant id="20" name="Kim Yujeong" gender="70" leaderCount="0" teammatesCount="25" maxTeammates="32"/>
+    <contestant id="21" name="Nari" gender="70" leaderCount="0" teammatesCount="24" maxTeammates="36"/>
+    <contestant id="22" name="Anne" gender="70" leaderCount="0" teammatesCount="28" maxTeammates="37"/>
+    <contestant id="23" name="Serri" gender="70" leaderCount="2" teammatesCount="28" maxTeammates="35"/>
+    <contestant id="24" name="Lucky" gender="70" leaderCount="0" teammatesCount="26" maxTeammates="31"/>
+    <contestant id="25" name="Joohyun" gender="70" leaderCount="0" teammatesCount="27" maxTeammates="37"/>
+    <contestant id="26" name="Haein" gender="70" leaderCount="1" teammatesCount="29" maxTeammates="36"/>
+    <contestant id="27" name="Hyeyeon" gender="70" leaderCount="1" teammatesCount="26" maxTeammates="32"/>
+    <contestant id="28" name="Heejin" gender="70" leaderCount="2" teammatesCount="26" maxTeammates="32"/>
+    <contestant id="29" name="Viva" gender="70" leaderCount="0" teammatesCount="30" maxTeammates="36"/>
+    <contestant id="30" name="Kim" gender="70" leaderCount="0" teammatesCount="26" maxTeammates="32"/>
+    <contestant id="31" name="Yoomin" gender="70" leaderCount="0" teammatesCount="23" maxTeammates="32"/>
+    <contestant id="32" name="Yena" gender="70" leaderCount="0" teammatesCount="23" maxTeammates="36"/>
+    <contestant id="33" name="I" gender="70" leaderCount="0" teammatesCount="15" maxTeammates="15"/>
+    <contestant id="34" name="Joo" gender="70" leaderCount="1" teammatesCount="22" maxTeammates="30"/>
+    <contestant id="35" name="Minhee" gender="70" leaderCount="1" teammatesCount="25" maxTeammates="32"/>
+    <contestant id="36" name="Seol Hayoon" gender="70" leaderCount="0" teammatesCount="29" maxTeammates="32"/>
+    <contestant id="37" name="Haseo" gender="70" leaderCount="0" teammatesCount="27" maxTeammates="30"/>
+    <contestant id="38" name="Nam Yujeong" gender="70" leaderCount="0" teammatesCount="20" maxTeammates="23"/>
+    <contestant id="39" name="Mint" gender="70" leaderCount="0" teammatesCount="24" maxTeammates="36"/>
+    <contestant id="40" name="Gaeul" gender="70" leaderCount="0" teammatesCount="24" maxTeammates="32"/>
+    <contestant id="41" name="Haena" gender="70" leaderCount="1" teammatesCount="25" maxTeammates="32"/>
+    <contestant id="42" name="Yeseul" gender="70" leaderCount="0" teammatesCount="28" maxTeammates="32"/>
+    <contestant id="43" name="Park Jiwon" gender="70" leaderCount="0" teammatesCount="23" maxTeammates="36"/>
+    <contestant id="44" name="Janey" gender="70" leaderCount="0" teammatesCount="25" maxTeammates="30"/>
+    <contestant id="45" name="Soya" gender="70" leaderCount="0" teammatesCount="21" maxTeammates="24"/>
+    <contestant id="46" name="Areum" gender="70" leaderCount="2" teammatesCount="25" maxTeammates="30"/>
+    <contestant id="47" name="Lena" gender="70" leaderCount="0" teammatesCount="23" maxTeammates="28"/>
+    <contestant id="48" name="Eun-E" gender="70" leaderCount="0" teammatesCount="25" maxTeammates="32"/>
+    <contestant id="49" name="Eunji" gender="70" leaderCount="1" teammatesCount="26" maxTeammates="29"/>
+    <contestant id="50" name="Genie" gender="70" leaderCount="0" teammatesCount="19" maxTeammates="24"/>
+    <contestant id="51" name="Han Seoin" gender="70" leaderCount="0" teammatesCount="19" maxTeammates="24"/>
+    <contestant id="52" name="Dabin" gender="70" leaderCount="0" teammatesCount="20" maxTeammates="28"/>
+    <contestant id="53" name="Saebyul" gender="70" leaderCount="0" teammatesCount="20" maxTeammates="21"/>
+    <contestant id="54" name="Bomi" gender="70" leaderCount="0" teammatesCount="23" maxTeammates="29"/>
+    <contestant id="55" name="Hanbi" gender="70" leaderCount="0" teammatesCount="27" maxTeammates="29"/>
+    <contestant id="56" name="Lee Yujeong" gender="70" leaderCount="0" teammatesCount="20" maxTeammates="28"/>
+    <contestant id="57" name="Lee Sebin" gender="70" leaderCount="0" teammatesCount="20" maxTeammates="21"/>
+    <contestant id="58" name="Sandy" gender="70" leaderCount="0" teammatesCount="18" maxTeammates="22"/>
+    <contestant id="59" name="Chaesol" gender="70" leaderCount="0" teammatesCount="19" maxTeammates="22"/>
+    <contestant id="60" name="Yuji" gender="70" leaderCount="1" teammatesCount="26" maxTeammates="28"/>
+    <contestant id="61" name="Eunbyeol" gender="70" leaderCount="0" teammatesCount="20" maxTeammates="28"/>
+    <contestant id="62" name="Tae-E" gender="70" leaderCount="0" teammatesCount="20" maxTeammates="28"/>
+    <contestant id="63" name="Chaewon" gender="70" leaderCount="0" teammatesCount="20" maxTeammates="24"/>
+    <team color="Red" song="My Turn" gender="70" round="1">
+        <leader>49</leader>
+        <member>1</member>
+        <member>2</member>
+        <member>14</member>
+        <member>18</member>
+        <member>51</member>
+        <member>15</member>
+        <member>17</member>
+        <member>31</member>
+    </team>
+    <team color="Black" song="My Turn" gender="70" round="1">
+        <leader>6</leader>
+        <member>23</member>
+        <member>7</member>
+        <member>20</member>
+        <member>8</member>
+        <member>13</member>
+        <member>41</member>
+        <member>21</member>
+        <member>43</member>
+    </team>
+    <team color="Orange" song="My Turn" gender="70" round="1">
+        <leader>46</leader>
+        <member>19</member>
+        <member>5</member>
+        <member>39</member>
+        <member>36</member>
+        <member>30</member>
+        <member>52</member>
+        <member>54</member>
+        <member>25</member>
+    </team>
+    <team color="Green" song="My Turn" gender="70" round="1">
+        <leader>27</leader>
+        <member>10</member>
+        <member>53</member>
+        <member>50</member>
+        <member>4</member>
+        <member>33</member>
+        <member>3</member>
+        <member>29</member>
+        <member>63</member>
+    </team>
+    <team color="Yellow" song="My Turn" gender="70" round="1">
+        <leader>35</leader>
+        <member>32</member>
+        <member>61</member>
+        <member>55</member>
+        <member>62</member>
+        <member>48</member>
+        <member>56</member>
+        <member>28</member>
+        <member>57</member>
+    </team>
+    <team color="White" song="My Turn" gender="70" round="1">
+        <leader>26</leader>
+        <member>22</member>
+        <member>40</member>
+        <member>9</member>
+        <member>12</member>
+        <member>59</member>
+        <member>44</member>
+        <member>38</member>
+        <member>11</member>
+    </team>
+    <team color="Blue" song="My Turn" gender="70" round="1">
+        <leader>34</leader>
+        <member>58</member>
+        <member>60</member>
+        <member>42</member>
+        <member>45</member>
+        <member>47</member>
+        <member>37</member>
+        <member>24</member>
+        <member>16</member>
+    </team>
+    <team color="Black" song="Rough" gender="70" round="2">
+        <leader>17</leader>
+        <member>3</member>
+        <member>40</member>
+        <member>16</member>
+        <member>25</member>
+        <member>5</member>
+        <member>49</member>
+        <member>51</member>
+        <member>50</member>
+    </team>
+    <team color="Blue" song="Crazy" gender="70" round="2">
+        <leader>23</leader>
+        <member>19</member>
+        <member>12</member>
+        <member>21</member>
+        <member>52</member>
+        <member>39</member>
+        <member>1</member>
+        <member>29</member>
+    </team>
+    <team color="Yellow" song="Heart Attack" gender="70" round="2">
+        <leader>4</leader>
+        <member>31</member>
+        <member>14</member>
+        <member>47</member>
+        <member>43</member>
+        <member>32</member>
+        <member>62</member>
+        <member>56</member>
+        <member>61</member>
+    </team>
+    <team color="Orange" song="Red Flavor" gender="70" round="2">
+        <leader>60</leader>
+        <member>11</member>
+        <member>33</member>
+        <member>2</member>
+        <member>9</member>
+        <member>38</member>
+        <member>13</member>
+        <member>24</member>
+    </team>
+    <team color="Green" song="You're The Best" gender="70" round="2">
+        <leader>6</leader>
+        <member>48</member>
+        <member>28</member>
+        <member>35</member>
+        <member>41</member>
+        <member>34</member>
+        <member>27</member>
+        <member>46</member>
+        <member>42</member>
+    </team>
+    <team color="White" song="Give It To Me" gender="70" round="2">
+        <leader>10</leader>
+        <member>15</member>
+        <member>36</member>
+        <member>63</member>
+        <member>37</member>
+        <member>26</member>
+        <member>44</member>
+        <member>30</member>
+        <member>54</member>
+    </team>
+    <team color="Red" song="Gee" gender="70" round="2">
+        <leader>7</leader>
+        <member>8</member>
+        <member>20</member>
+        <member>45</member>
+        <member>59</member>
+        <member>22</member>
+        <member>18</member>
+        <member>55</member>
+        <member>58</member>
+    </team>
+    <team color="Yellow" song="Jackpot" gender="70" round="3">
+        <leader>28</leader>
+        <member>15</member>
+        <member>7</member>
+        <member>27</member>
+        <member>16</member>
+        <member>63</member>
+        <member>50</member>
+        <member>51</member>
+        <member>45</member>
+    </team>
+    <team color="Green" song="Last Dance" gender="70" round="3">
+        <leader>41</leader>
+        <member>3</member>
+        <member>2</member>
+        <member>20</member>
+        <member>24</member>
+        <member>35</member>
+        <member>36</member>
+        <member>48</member>
+        <member>40</member>
+    </team>
+    <team color="Black" song="Problem" gender="70" round="3">
+        <leader>23</leader>
+        <member>1</member>
+        <member>8</member>
+        <member>5</member>
+        <member>18</member>
+        <member>26</member>
+        <member>13</member>
+        <member>43</member>
+        <member>32</member>
+        <member>56</member>
+        <member>62</member>
+        <member>61</member>
+        <member>47</member>
+    </team>
+    <team color="Red" song="Partition" gender="70" round="3">
+        <leader>19</leader>
+        <member>21</member>
+        <member>9</member>
+        <member>22</member>
+        <member>29</member>
+        <member>39</member>
+        <member>25</member>
+        <member>55</member>
+        <member>52</member>
+        <member>60</member>
+        <member>54</member>
+        <member>57</member>
+        <member>53</member>
+        <member>49</member>
+    </team>
+    <team color="Orange" song="Who's Your Mama?" gender="70" round="3">
+        <leader>12</leader>
+        <member>10</member>
+        <member>14</member>
+        <member>11</member>
+        <member>6</member>
+        <member>30</member>
+        <member>4</member>
+        <member>31</member>
+        <member>42</member>
+    </team>
+    <team color="Blue" song="Blood Sweat &amp; Tears" gender="70" round="3">
+        <leader>46</leader>
+        <member>17</member>
+        <member>37</member>
+        <member>44</member>
+        <member>34</member>
+        <member>58</member>
+        <member>59</member>
+    </team>
+    <team color="Yellow" song="Cherry On Top" gender="70" round="4">
+        <leader>1</leader>
+        <member>10</member>
+        <member>18</member>
+        <member>26</member>
+        <member>31</member>
+        <member>32</member>
+        <member>43</member>
+        <member>42</member>
+        <member>44</member>
+    </team>
+    <team color="Orange" song="Poco a Poco" gender="70" round="4">
+        <leader>17</leader>
+        <member>6</member>
+        <member>14</member>
+        <member>4</member>
+        <member>24</member>
+        <member>27</member>
+        <member>38</member>
+        <member>36</member>
+        <member>34</member>
+    </team>
+    <team color="Red" song="Cosmos" gender="70" round="4">
+        <leader>28</leader>
+        <member>2</member>
+        <member>13</member>
+        <member>15</member>
+        <member>19</member>
+        <member>30</member>
+        <member>29</member>
+        <member>48</member>
+        <member>46</member>
+    </team>
+    <team color="Green" song="Sweet" gender="70" round="4">
+        <leader>12</leader>
+        <member>8</member>
+        <member>22</member>
+        <member>7</member>
+        <member>9</member>
+        <member>21</member>
+        <member>41</member>
+        <member>39</member>
+        <member>37</member>
+    </team>
+    <team color="White" song="Always" gender="70" round="4">
+        <leader>3</leader>
+        <member>16</member>
+        <member>11</member>
+        <member>20</member>
+        <member>5</member>
+        <member>25</member>
+        <member>23</member>
+        <member>40</member>
+        <member>35</member>
+    </team>
+    <team color="White" song="Ting" gender="70" round="5">
+        <leader>10</leader>
+        <member>9</member>
+        <member>11</member>
+        <member>12</member>
+        <member>6</member>
+        <member>5</member>
+        <member>8</member>
+        <member>13</member>
+        <member>14</member>
+    </team>
+    <team color="Red" song="You &amp; I" gender="70" round="5">
+        <leader>1</leader>
+        <member>2</member>
+        <member>3</member>
+        <member>15</member>
+        <member>17</member>
+        <member>4</member>
+        <member>18</member>
+        <member>7</member>
+        <member>16</member>
+    </team>
+    <team color="Rainbow" song="Final" gender="70" round="6">
+        <leader>1</leader>
+        <member>2</member>
+        <member>3</member>
+        <member>4</member>
+        <member>5</member>
+        <member>6</member>
+        <member>7</member>
+        <member>8</member>
+        <member>9</member>
+    </team>
+</unit>
